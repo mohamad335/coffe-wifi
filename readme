@@ -1,0 +1,6 @@
+our project is to figure this web by using flask-Wtf and bootstrap-falsk and csv
+so we figur it to get the data from csv and create a table on cafes.html 
+import bootstrap5 form  and styling css to design the web 
+put the true path for each page by using url_form 
+create form of cafe by using wtforms
+open 
